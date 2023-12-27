@@ -17,6 +17,7 @@
 
 <h3 align="left">Languages Worked With:</h3>
 <p align="left"> 
+<a href="https://www.java.com/en/" target="blank"><img src="https://camo.githubusercontent.com/6cbecd63a9a8f83ee186885c446938820ffa8304942a284ee6e1e2acb2bfd822/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661266c6f676f436f6c6f723d7768697465" alt="Java" /><a/>
 <a href="" target="blank"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="" /><a/>
 <a href="" target="blank"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="" /><a/>
 <a href="" target="blank"><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="" /><a/>
@@ -44,7 +45,7 @@
 <a href="https://www.pexels.com/" target="blank"><img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" /><a/>
 <a href="https://unsplash.com/" target="blank"><img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="Unsplash" /><a/>
 <a href="https://www.w3schools.com/" target="blank"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools" /><a/>
-<a href="" target="blank"><img src="" alt="" /><a/>
+
 <a href="" target="blank"><img src="" alt="" /><a/>
 <a href="" target="blank"><img src="" alt="" /><a/>
 </p>
