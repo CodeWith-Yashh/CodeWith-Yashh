@@ -30,27 +30,12 @@
 <p align="left">
 <a href="https://react.dev/" target="blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /><a/>
 <a href="https://tailwindcss.com/" target="blank"><img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailWind Css" /><a/>
-<a href="https://getbootstrap.com/" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap" /><a/><br>
+<a href="https://getbootstrap.com/" target="blank"><img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="BootStrap" /><a/>
 <a href="https://spring.io/" target="blank"><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring" /><a/>
 <a href="https://spring.io/projects/spring-boot/" target="blank"><img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot" alt="SpringBoot" /><a/>
 </p>
 <br>
-  
-<h3 align="left">Technologies Familiar With:</h3>
-<p align="left"> 
-<a href="https://fontawesome.com/" target="blank"><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="FontAwesome" /><a/>
-<a href="https://www.oracle.com/" target="blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" /></a>
-<a href="https://www.postman.com/" target="blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="PostMan" /><a/><br>
-<a href="https://nodejs.org/en" target="blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /><a/>
-<a href="https://www.pexels.com/" target="blank"><img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" /><a/>
-<a href="https://unsplash.com/" target="blank"><img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="Unsplash" /><a/>
-<a href="https://www.w3schools.com/" target="blank"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools" /><a/>
 
-<a href="" target="blank"><img src="" alt="" /><a/>
-<a href="" target="blank"><img src="" alt="" /><a/>
-</p>
-<br>
-  
 <h3 align="left">IDE's Worked On:</h3>
 <p align="left"> 
 <a href="https://www.eclipse.org/ide/" target="blank"><img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white" alt="Ecilipse" /><a/>
@@ -60,6 +45,18 @@
 </p>
 <br>
   
+<h3 align="left">Technologies Familiar With:</h3>
+<p align="left"> 
+<a href="https://fontawesome.com/" target="blank"><img src="https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white" alt="FontAwesome" /><a/>
+<a href="https://www.oracle.com/" target="blank"><img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white" alt="Oracle" /></a>
+<a href="https://www.postman.com/" target="blank"><img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="PostMan" /><a/>
+<a href="https://nodejs.org/en" target="blank"><img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="NodeJS" /><a/>
+<a href="https://www.pexels.com/" target="blank"><img src="https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white" alt="Pexels" /><a/>
+<a href="https://unsplash.com/" target="blank"><img src="https://img.shields.io/badge/Unsplash-000000?style=for-the-badge&logo=Unsplash&logoColor=white" alt="Unsplash" /><a/>
+<a href="https://www.w3schools.com/" target="blank"><img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=W3Schools&logoColor=white" alt="W3Schools" /><a/>
+</p>
+<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/badbruteyash31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="badbruteyash31" height="30" width="40" /></a>
